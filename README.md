@@ -160,6 +160,7 @@ SIEM / Event Log incelemeleri
 
 Failover testleri
 
+
 👤 Can Görkem Ceyhan
 
 Bu proje, bireysel öğrenme ve profesyonel gelişim amacıyla gerçekleştirilmiştir.
